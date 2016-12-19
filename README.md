@@ -10,4 +10,4 @@ This repo contains link to tensorflow static library for iOS.
   - lib/iphone/libtensorflow-core.a for architectures `armv7` `armv7s` and `arm64`
   - lib/simulator/libtensorflow-core.a for `i386` and `x86_64`
 3. include those 2 folders from 2nd step to your project's `Library Search Paths`
-4. How to setup rest of your iOS project is described in [tensorflow original repo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples/)
+4. How to set up the rest of your iOS project is described in the [tensorflow original repo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples/)
