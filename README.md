@@ -1,7 +1,5 @@
 # ios-tensorflow-lib
-Tensorflow compiled library
-
-This repo contains link to tensorflow static library for iOS.
+Tensorflow compiled library for iOS (both iPhone and Simulator).
 
 ## how to use this repo
 
